@@ -1,0 +1,8 @@
+div.image{
+    background-image: url(black-forest.jpg);
+    height: 100%;
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
